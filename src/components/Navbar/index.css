@@ -1,0 +1,13 @@
+.nav-container {
+  background-color: #f1f5f9;
+  padding: 10px 50px;
+}
+
+.website-logo {
+  width: 150px;
+}
+
+.website-logo-button {
+  background-color: transparent;
+  border: none;
+}
